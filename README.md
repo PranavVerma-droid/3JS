@@ -1,4 +1,4 @@
 # 3js-Web
 A 3JS Test Web Page
 
-https://3js-test.web.app
+Made using 3JS and Vue.js
